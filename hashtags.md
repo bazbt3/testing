@@ -1,5 +1,7 @@
+Test hashtags, initially hoping to avoid escaping.
+
 ```
-#hashtag, i.e. not a # heading.
+#hashtag, #secondhashtag
 ```
 
 #hashtag, #secondhashtag
