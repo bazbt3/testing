@@ -12,7 +12,7 @@
 
 **Next, escaping:**        
 ```
-#hashtag, #secondhashtag
+\#hashtag, \#secondhashtag
 ```
 
 \#hashtag, \#secondhashtag
